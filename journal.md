@@ -24,4 +24,4 @@ I wanted to share a screenshot of my progress, but realized I didn't know how to
 
 After a google search, I found this video (https://www.youtube.com/watch?v=hHbWF1Bvgf4) for including a picture into GitHub. I did upload to my week one page, but can't seem to figure out how to include it to this entry. I'm going to watch the YouTube video a few times...
 
-![] (images/Capture2%20.PNG)
+
