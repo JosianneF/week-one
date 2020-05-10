@@ -22,7 +22,7 @@ https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-rea
 
 I wanted to share a screenshot of my progress, but realized I didn't know how to add a screenshot to this page!!! I tried dragging the screenshot over to this page, but it wasn't working so I had to google that too!!
 
-After a google search, I found this video (https://www.youtube.com/watch?v=hHbWF1Bvgf4) for including a picture into GitHub. I did upload to my week one page, but can't seem to figure out how to include it to this entry. I'm going to watch the YouTube video a few times...
+After a google search, I found this video (https://www.youtube.com/watch?v=hHbWF1Bvgf4) for including a picture into GitHub. I did upload to my week one page, but can't seem to figure out how to include it to this entry. I'm going to watch the YouTube video a few times.. Okay so I'm still not sure why this code isn't working "![](master/Capture%102.PNG)" for me to link the screenshot to this page. 
 
-![](master/Capture%102.PNG) 
+On the bright side, I was able to include the screencast & screenshots to my main "week-one" page. 
 
