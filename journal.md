@@ -18,11 +18,13 @@ I already had **Zotero** download on my work laptop (the same one I use for scho
 
 I created a screetcast video on me using the Hypothesis Chrome extension on Amalia's thread (https://twitter.com/amaliasl/status/1245544256212807680). I was having issues just dragging the video (mp4 format) on to this page. So I "googled" the answer. 
 
-https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md 
+https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md This page was helpful, but still had a hard time trying to figure out how to include it in this page specifically. 
 
 I wanted to share a screenshot of my progress, but realized I didn't know how to add a screenshot to this page!!! I tried dragging the screenshot over to this page, but it wasn't working so I had to google that too!!
 
 After a google search, I found this video (https://www.youtube.com/watch?v=hHbWF1Bvgf4) for including a picture into GitHub. I did upload to my week one page, but can't seem to figure out how to include it to this entry. I'm going to watch the YouTube video a few times.. Okay so I'm still not sure why this code isn't working "![](master/Capture%102.PNG)" for me to link the screenshot to this page. 
 
-On the bright side, I was able to include the screencast & screenshots to my main "week-one" page. 
+On the bright side, I was able to include the screencast & screenshots to my main "week-one" page. I know YouTube links can be pasted here, so I uploaded the video of my screencast test on here: https://www.youtube.com/watch?v=5Gh0yVuilac Screencast was a lot of fun to use and I figured out how to include background music!!! 
+
+
 
