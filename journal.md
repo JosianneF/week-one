@@ -22,6 +22,8 @@ https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-rea
 
 I wanted to share a screenshot of my progress, but realized I didn't know how to add a screenshot to this page!!! I tried dragging the screenshot over to this page, but it wasn't working so I had to google that too!! 
 
+After a google search
+
 
 
 
