@@ -16,6 +16,16 @@ I already had **Zotero** download on my work laptop (the same one I use for scho
 
 -------------------------------------------------------------------------------------------------------------
 
+I created a screetcast video on me using the Hypothesis Chrome extension on Amalia's thread (https://twitter.com/amaliasl/status/1245544256212807680). I was having issues just dragging the video (mp4 format) on to this page. So I "googled" the answer. 
+
+https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md 
+
+I wanted to share a screenshot of my progress, but realized I didn't know how to add a screenshot to this page!!! I tried dragging the screenshot over to this page, but it wasn't working so I had to google that too!! 
+
+
+
+
+
 
 
 
